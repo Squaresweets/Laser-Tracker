@@ -3,3 +3,5 @@ OpenCV python project to track laser and send mouse to that position
 
 I made this code using this code: https://github.com/andrewnaguib/LaserPointerTracking
 so thanks for that, helped alot :)
+
+Video: https://www.youtube.com/watch?v=R9Apx37dOZM
